@@ -1,3 +1,18 @@
+# Productivity Dashboard
+
+A responsive React dashboard for managing tasks, habits, notes, weather, and time — with dark mode, drag-and-drop, and localStorage persistence.
+
+## Features
+
+- ✅ Task manager with categories and drag-and-drop
+- 🌤 Weather widget
+- 🧘 Habit tracker
+- 📝 Notes with auto-save
+- 🕒 Live clock and date
+- 🌙 Light/Dark theme toggle
+- 📱 Responsive layout
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
